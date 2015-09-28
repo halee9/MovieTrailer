@@ -1,4 +1,4 @@
-class Movie():
+class Movie:
     """ This class privides a way to store movie related information """
     def __init__(self, movie_title, movie_rating, movie_genre, box_art, trailer_youtube):
         self.title = movie_title
